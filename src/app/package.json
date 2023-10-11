@@ -10,7 +10,7 @@
     "ng2-charts": "1.6.0",
     "@types/node": "12.12.37",
     "jasmine-core": "3.5.0",
-    "@angular/core": "9.0.7",
+    "@angular/core": "10.2.5",
     "@angular/forms": "9.0.7",
     "@types/jasmine": "3.5.10",
     "@angular/common": "9.0.7",
